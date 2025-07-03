@@ -1,0 +1,9 @@
+# ninja log v6
+10	55	7730013604814925	C:/dev/FallEngine/out/build/x64-debug/CMakeFiles/cmake.verify_globs	d1e4bbc69cb5469b
+56	81	7729982508630751	clean	8c45b54705a541e8
+59	463	7730013605302386	FallEngine/CMakeFiles/FallEngine.dir/src/FallEngine/Application.cpp.obj	63c984cd5aae5443
+93	3476	7730013605646075	Editor/CMakeFiles/Editor.dir/src/Editor.cpp.obj	bd0d60fb035f339
+3485	4974	7730013642012265	bin/FallEngine.dll	af218e084e9722c9
+3485	4974	7730013642012265	FallEngine/FallEngine.lib	af218e084e9722c9
+73	3485	7730013605450396	FallEngine/CMakeFiles/FallEngine.dir/src/FallEngine/Log.cpp.obj	6dd152bd01bdf133
+4974	6043	7730013654462070	bin/Editor.exe	5dcebb7df655320a

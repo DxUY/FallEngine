@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "FallEngine",
+					"jsonFile" : "directory-FallEngine-Debug-8f94a3ceb9fad287d321.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "FallEngine",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Editor",
+					"jsonFile" : "directory-Editor-Debug-7a308ff03f205fcb7b81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Editor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "FallEngineProject",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Editor::@b58ce4ae47b5f4fc4f99",
+					"jsonFile" : "target-Editor-Debug-8ed421bf91fe2047d10c.json",
+					"name" : "Editor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "FallEngine::@39f99b5f834e6bcd9dc8",
+					"jsonFile" : "target-FallEngine-Debug-70f32cf7ec3e441536e5.json",
+					"name" : "FallEngine",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/dev/FallEngine/out/build/x64-debug",
+		"source" : "C:/dev/FallEngine"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

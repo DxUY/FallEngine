@@ -1,0 +1,8 @@
+C:/dev/FallEngine/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/dev/FallEngine/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/dev/FallEngine/out/build/x64-debug/FallEngine/CMakeFiles/FallEngine.dir
+C:/dev/FallEngine/out/build/x64-debug/FallEngine/CMakeFiles/edit_cache.dir
+C:/dev/FallEngine/out/build/x64-debug/FallEngine/CMakeFiles/rebuild_cache.dir
+C:/dev/FallEngine/out/build/x64-debug/Editor/CMakeFiles/Editor.dir
+C:/dev/FallEngine/out/build/x64-debug/Editor/CMakeFiles/edit_cache.dir
+C:/dev/FallEngine/out/build/x64-debug/Editor/CMakeFiles/rebuild_cache.dir
