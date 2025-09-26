@@ -1,0 +1,47 @@
+# ============================
+# Visual Studio
+# ============================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.ipch
+*.log
+*.vsidx
+
+# ============================
+# Build outputs
+# ============================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+build/
+*.exe
+*.dll
+*.pdb
+*.lib
+*.ilk
+*.idb
+
+# ============================
+# CMake
+# ============================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# ============================
+# Other temporary files
+# ============================
+*.cache
+*.tmp
+*.swp
